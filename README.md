@@ -9,8 +9,7 @@ List of end of life software and OS
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) Still supported | - | - |
 
 
-
-## Databases
+## Control Panels
 - [cPanel](https://github.com/matthernet/EndOfLife/blob/main/ControlPanels.md#cpanel)
 - [Plesk](https://github.com/matthernet/EndOfLife/blob/main/ControlPanels.md#plesk)
 
