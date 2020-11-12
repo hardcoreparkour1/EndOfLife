@@ -11,11 +11,14 @@ List of end of life software and OS
 
 
 ## Databases
+- [cPanel](https://github.com/matthernet/EndOfLife/blob/main/ControlPanels.md#cpanel)
+- [Plesk](https://github.com/matthernet/EndOfLife/blob/main/ControlPanels.md#plesk)
+
+## Databases
 - [MariaDB](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#mariadb)
 - [MongoDB](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#mongodb)
 - [MySQL](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#mongodb)
 - [PostgreSQL](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#postgresql)
-
 
 ## Mobile
 - [ANDROID](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#android)
