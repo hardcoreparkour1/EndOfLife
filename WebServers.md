@@ -8,6 +8,7 @@
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 2.4 | February 21 2012 | July 8 2020 (2.4.46) |
 
 
+
 # Apache Tomcat
 
 | Apache | Release date | End of Life / Version |
