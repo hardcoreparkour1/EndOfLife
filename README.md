@@ -22,4 +22,5 @@ List of end of life software and OS
 - [PostgreSQL](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#postgresql)
 
 ## Mobile
-- [ANDROID](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#android)
+- [Android](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#android)
+- [iOS](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#ios)
