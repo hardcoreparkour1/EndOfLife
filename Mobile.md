@@ -1,6 +1,6 @@
-# ANDROID
+# Android
 
-| ANDROID | VERSION NUMBER |  Release | Api Level |
+| Android | VERSION NUMBER |  Release | Api Level |
 | ------ | ------ | ------ |:------: |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) (No codename) | 1.0 | September 23, 2008 | 1 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) (No codename) | 1.1 | February 9, 2009 | 2 |
@@ -20,3 +20,25 @@
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) Pie | 9 | August 6, 2018 | 28 |
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) Android 10 | 10 | September 3, 2019 | 29 |
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) Android 11 | 11 | September 8, 2020 | 30 |
+
+
+# iOS
+
+| iOS | Release date | Discontinued | Supported |
+| ------ | ------ | ------ |:------: |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) iPhone 5C | September 20 2013 | September 09 2015 | No |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) iPhone 5S | September 20 2013 | March 21 2016 | No |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) iPhone 6 / 6 Plus | September 25 2014 | September 07 2016 | No |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) iPhone 6S / 6S Plus | 25 September 2015 | 12 September 2018 | Yes |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) iPhone SE (1st generation) | March 31 2016 | 12 September 2018 | Yes |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) iPhone 7 / 7 Plus | 16 September 2016 | 10 September 2019 | Yes |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) iPhone X | 12 September 2017 | 12 September 2018 | Yes |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) iPhone 8 / 8 Plus | 22 September 2017 | April 15 2020 | Yes |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) iPhone XS / XS | 21 September 2018 | 10 September 2019 | Yes |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) iPhone XR | 26 Oct 2018 | In Production | Yes |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) iPhone 11	 | 20 September 2019 | In Production | Yes |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) iPhone 11 Pro / 11 Pro Max | September 20 2019 | October 13 2020 | Yes |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) iPhone SE (2nd generation) | April 24 2020 | In Production | Yes |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) iPhone 12 / 12 Pro | 23 October 23 2020 | In Production | Yes |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) iPhone 12 Mini / 12 Pro Max | November 13 2020 | In Production | Yes |
+
