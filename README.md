@@ -16,6 +16,7 @@ List of end of life software and OS
 
 ## Databases
 - [MariaDB](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#mariadb)
+- [Microsoft SQL](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#microsoft-sql)
 - [MongoDB](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#mongodb)
 - [MySQL](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#mongodb)
 - [PostgreSQL](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#postgresql)
