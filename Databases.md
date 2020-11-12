@@ -12,6 +12,28 @@
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 10.3 | May 2018 | May 2023 |
 
 
+# Microsoft SQL
+
+| Microsoft SQL | Release date | End of Life | End of Extended Support |
+| ------ | ------ | ------ | :------: |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SQL Server 6.5 | June 30 1996 | March 31 2004 | - |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SQL Server 7.0 | March 1 1999 | Dicember 31 2005 | January 11 2011 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SQL Server 2000 | November 30 2000 | Not Applicable | July 11 2002 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SQL Server 2000 (SP4) | May 6 2005 | April 8 2008 | April 9 2013 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SQL Server 2005 (SP4) | Dicember 13 2010 | April 12  2011 | April 12 2016 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SQL Server 2008 (SP4) | July 7 2014 | July 8  2014 | July 9 2019 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SQL Server 2008 R2 | July 12 2011 | - | July 10 2012 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SQL Server 2008 R2 (SP3) | - | July 8 2014 | July 9 2019 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SQL Server 2012	| November 7 2012 | - | January 14 2014 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) SQL Server 2012 (SP4) | - | July 11 2017 | July 12 2022 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SQL Server 2014	| April 14 2015 | Not Applicable | October 10 2017 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) SQL Server 2014 (SP3) | October 30 2018 | July 9  2019 | July 9 2024 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SQL Server 2016	| June 1 2016 | Not Applicable | January 9 2018 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) SQL Server 2016 (SP2) | April 24 2018 | July 13  2021 | July 14 2026 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) SQL Server 2017	| September 29 2017 | October 11  2022 | October 12 2027 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) SQL Server 2019	| November 04 2019 | January 7  2025 | January 8 2030 |
+
+
 # MongoDB
 
 | MongoDB | Release date | End of Life |
