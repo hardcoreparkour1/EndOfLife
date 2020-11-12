@@ -23,3 +23,8 @@ List of end of life software and OS
 ## Mobile
 - [Android](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#android)
 - [iOS](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#ios)
+
+
+## Web Servers
+- [Apache](https://github.com/matthernet/EndOfLife/blob/main/WebServers.md#apache)
+- [Apache Tomcat](https://github.com/matthernet/EndOfLife/blob/main/WebServers.md#apache-tomcat)
