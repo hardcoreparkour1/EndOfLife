@@ -8,8 +8,10 @@
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.5 | April 2012 | March 2020 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 10.0 | March 2014 | March 2019 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 10.1 | October 2015 | October 2020 |
-| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 10.2 | May 2017 | May 2022 |
-| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 10.3 | May 2018 | May 2023 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 10.2 | May 2017 | May 2022 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 10.3 | May 2018 | May 2023 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 10.4 | 9 November 2018 | Jun 2024 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 10.5 | 3 December 2019 | Jun 2025 |
 
 
 # Microsoft SQL
@@ -53,6 +55,7 @@
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 3.6 | November 2017 | - |	
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 4.0 | June 2018 | - |
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 4.2 | August 2019 | - |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 4.4 | July 2020 | - |
 
 
 # MySQL
@@ -62,8 +65,8 @@
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.0 | - | January 9 2012 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.1 | November 14 2008 | December 31 2013 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.5 | December 3 2010 | December 3 2018 |
-| ![#0A8A0A](https://placehold.it/15/f03c15/000000?text=+) 5.6 | February 5 2013	 | February 5 2021 |
-| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 5.7 | October 21 2015	 | October 21 2023 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 5.6 | February 5 2013	 | February 5 2021 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 5.7 | October 21 2015	 | October 21 2023 |
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 8.0 | April 19 2018	 | April 2026 |
 
 
@@ -92,8 +95,9 @@
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 9.2 | September 10 2012 | November 9 2017 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 9.3 | September 9 2013 | November 8 2018 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 9.4 | December 18 2014 | February 13 2020 |
-| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 9.5 | January 7 2016 | February 11 2021 |
-| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 9.6 | September 29 2016 | November 11 2021 |
-| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 10.12 | October 5 2017 | November 10 2022 |
-| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 11.7 | October 18 2018 | November 9 2023 |
-| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 12.2 | October 3 2019 | November 14  2024 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 9.5 | January 7 2016 | February 11 2021 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 9.6 | September 29 2016 | November 11 2021 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 10.12 | October 5 2017 | November 10 2022 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 11.7 | October 18 2018 | November 9 2023 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 12.2 | October 3 2019 | November 14  2024 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 13.1 | 12 November 2020 | 13 November 2025 |
