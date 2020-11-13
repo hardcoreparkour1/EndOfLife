@@ -22,6 +22,10 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
     
 - [MacOS](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/macos.md)
 
+- [Microsoft](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md)
+    - [Windows](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows)
+    - [Windwos Server](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server)
+
 - [Unix](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/unix.md)
     - [FreeBSD](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/unix.md#freebsd)
     - [OpenBSD](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/unix.md#openbsd)
