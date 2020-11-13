@@ -1,3 +1,15 @@
+# CentOS
+
+| CentOS | Release date | Full Updates | Maintenance Update |
+| ------ | ------ | ------ |:------:|
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3 | March 19 2004 | July 20 2006 | October 31 2010 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 4 | March 9 2005 | march 31 2009 | February 29 2012 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5 | April 12 2007 | January 31 2014 | March 31 2017 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 6 | October 10 2011 | May 10 2017 | November 30 2020 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 7 | July 7 2014 | August 6 2020 | June 30 2024 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 8 | September 24 2019 | May 2024 | May 31 2029 |
+
+
 # Debian
 
 | Debian | Code Name | Release date | End of Life | Extended Support | Initial kernel |
