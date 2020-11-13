@@ -1,3 +1,33 @@
+# Debian
+
+| Debian | Code Name | Release date | End of Life | Extended Support | Initial kernel |
+| ------ | ------ | ------ | ------ | ------ |:------: |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.90 | - | August–December | - | - | - |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.91 | - | January 1994 | - | - | - |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.93R5 | - | March 1995 | - | - | - |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.93R6 | - | November 1995 | - | - | - |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.0 | - | Never | - | - | - |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.1 | Buzz | June 17 1996 | - | - | 2.0 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.2 | Rex | December 12 1996 | - | - | 2.0.27 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.3 | Bo | June 5 1997 | - | - | 2.0.33 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.0 | Hamm | July 24 1998 | - | - | 2.0.34 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.1 | Slink | March 9 1999 | October 30 2000 | - | 2.0.34, 2.0.35, 2.0.36, 2.0.38 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.2 | Potato | August 14–15 2000 | June 30 2003 | - | 2.0.38, 2.2.19 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.0 | Woody | July 19 2002 | June 30 2006 | - | 2.2.20, 2.4.18 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.1 | Sarge | June 6 2005 | March 31 2008 | - | 2.4.27, 2.6.8 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 4.0 | Etch | April 8 2007 | February 15 2010 | - | 2.6.18 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.0 | Lenny | February 14 2009 | February 6 2012 | - | 2.6.26 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 6.0 | Squeeze | February 6 2011 | July 19 2014 | February 29 2016 | 2.6.32 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 7 | Wheezy | May 4 2013 | June 4 2016 | June 30 2020 | 3.2 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 8 | Jessie | April 25–262015 | June 17 2018 | June 30 2022 | 3.16 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 9 | Stretch | June 17 2017 | July 18 2020 | June 2022 | 4.9 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 10 | Buster | July 6 2019 | 2022 | 2024 | 4.19 |
+| ![#80BFFF](https://placehold.it/15/80bfff/000000?text=+) 11 | Bullseye | - | - | - |
+| ![#80BFFF](https://placehold.it/15/80bfff/000000?text=+) 12 | Bookworm | - | - | - |
+| ![#80BFFF](https://placehold.it/15/80bfff/000000?text=+) 13 | Trixie | - | - | - |
+| unstable | - | Sid | - | 5.5 (April 2020) | - | 
+
+
 # Ubuntu
 
 | Ubuntu | Code Name | Release date | End of Life | Extended Support | Initial kernel |
