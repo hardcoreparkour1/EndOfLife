@@ -15,6 +15,7 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 
 ## OS
 - [Linux](https://github.com/matthernet/EndOfLife/blob/main/oslinux.md)
+    - [Debian](https://github.com/matthernet/EndOfLife/blob/main/oslinux.md#debian)
     - [Ubuntu](https://github.com/matthernet/EndOfLife/blob/main/oslinux.md#ubuntu)
 
 ## Software
