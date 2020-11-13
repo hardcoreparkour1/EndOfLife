@@ -9,6 +9,9 @@ List of end of life software and OS
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) Still supported | - | - |
 
 
+### Note:
+When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
+
 ## OS
 - [Linux](https://github.com/matthernet/EndOfLife/blob/main/oslinux.md)
     - [Ubuntu](https://github.com/matthernet/EndOfLife/blob/main/oslinux.md#ubuntu)
