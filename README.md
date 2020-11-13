@@ -14,11 +14,11 @@ List of end of life software and OS
 When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 
 ## OS
-- [Linux](https://github.com/matthernet/EndOfLife/blob/main/oslinux.md)
-    - [CentOS](https://github.com/matthernet/EndOfLife/blob/main/oslinux.md#centos)
-    - [Debian](https://github.com/matthernet/EndOfLife/blob/main/oslinux.md#debian)
-    - [Red Hat](https://github.com/matthernet/EndOfLife/blob/main/oslinux.md#red-hat)
-    - [Ubuntu](https://github.com/matthernet/EndOfLife/blob/main/oslinux.md#ubuntu)
+- [Linux](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md)
+    - [CentOS](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#centos)
+    - [Debian](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#debian)
+    - [Red Hat](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#red-hat)
+    - [Ubuntu](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#ubuntu)
 
 ## Software
 - [Control Panels](https://github.com/matthernet/EndOfLife/blob/main/ControlPanels.md)
