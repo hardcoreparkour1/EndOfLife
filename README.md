@@ -3,7 +3,7 @@ List of end of life software and OS
 
 
 ## Example
-| Software/OS | Release date | End of Life |
+| Version | Release date | End of Life |
 | ------ | ------ | :------: |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Old version | - | - |
 | ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) Older version, still maintained | - | - |
