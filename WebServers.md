@@ -74,18 +74,4 @@
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 7.5 | 22 October 2009 | - | - | [Windows Server 2008 R2 and 7](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server) |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 8.0 | 30 October 2012 | - | - | [Windows Server 2012 and 8](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server) |
 | ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 8.5 | 13 November 2013 | - | - | [Windows Server 2012 R2 and 8.1](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server) |
-| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 10.0 | 12 October 2016 | 11 january 2022 | 11 january 2027 | [Windows Server 2016](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 10.0 | 12 October 2016 | 11 January 2022 | 11 January 2027 | [Windows Server 2016](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server) |
