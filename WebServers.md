@@ -63,6 +63,29 @@
 
 # Microsoft IIS
 
-| Version | Release date | Latest Fix Pack | End of Life / Version |
-| ------ | ------ | ------ | :------: |
+| Version | Release date | End of Life | Extended Support End | Life Parent to |
+| ------ | ------ | ------ | ------ | :------: |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.0 | 27 October 2000 | 30 June 1997 | 30 June 1997 | - |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.0 | 20 March 2000 | 31 March 2000 | 31 March 2000 | - |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.0 | 17 May 2000 | 30 June 2005 | 13 July 2010 | - |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.1 | 31 Dicember 2001 | - | - | [Windows XP](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows) |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 6.0 | 28 May 2003 | - | - | [Windows Server 2003](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server) |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 7.0 | 25 january 2007 | - | - | [Windows Server 2008](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server) |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 7.5 | 22 October 2009 | - | - | [Windows Server 2008 R2 and 7](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server) |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 8.0 | 30 October 2012 | - | - | [Windows Server 2012 and 8](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server) |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 8.5 | 13 November 2013 | - | - | [Windows Server 2012 R2 and 8.1](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server) |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 10.0 | 12 October 2016 | 11 january 2022 | 11 january 2027 | [Windows Server 2016](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server) |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
