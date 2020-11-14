@@ -17,6 +17,8 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 - [Linux](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md)
     - [CentOS](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#centos)
     - [Debian](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#debian)
+    - [Fedora](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#fedora)
+    - [Linux Mint](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#linux-mint)
     - [Red Hat](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#red-hat)
     - [Ubuntu](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#ubuntu)
     
