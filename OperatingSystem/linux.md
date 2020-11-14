@@ -40,6 +40,46 @@
 | unstable | - | Sid | - | 5.5 (April 2020) | - | 
 
 
+# Fedora
+
+| Version / Code Name | Release date | End of Life | Kernel |
+| ------ | ------ | ------ |:------: |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1 (Yarrow) | 5 November 2003 | 20 September 2004 | 2.4.22 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2 (Tettnang) | 18 May 2004 | 11 April 2005 | 2.6.5 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3 (Heidelberg) | 8 November 2004 | 16 January 2006 | 2.6.9 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 4 (Stentz) | 13 July 2005 | 7 August 2006 | 2.6.11 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5 (Bordeaux) | 20 March 2006 | 2 July 2007 | 2.6.15 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 6 (Zod) | 24 October 2006 | 7 Dicember 2007 | 2.6.18 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 7 (Moonshine) | 31 May 2007 | 13 July 2008 | 2.6.21 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 8 (Werewolf) | 8 November 2008 | 7 January 2009 | 2.6.23 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 9 (Sulphur) | 13 May 2008 | 10 July 2009 | 2.6.25 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 10 (Cambridge) | 25 November 2008 | 18 Dicember 2009 | 2.6.27 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 11 (Leonidas) | 09 July 2009 | 25 July 2010 | 2.6.29 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 12 (Constantine) | 17 November 2009 | 2 Dicember 2010 | 2.6.31 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 13 (Goddard) | 25 May 2010 | 24 July 2011 | 2.6.33 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 14 (Laughlin) | 2 November 2010 | 8 Dicember 2011 | 2.6.35 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 15 (Lovelock) | 24 May 2011 | 26 July 2012 | 2.6.38 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 16 (Verne) | 8 November 2011 | 12 February 2013 | 3.1 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 17 (Beefy Miracle) | 29 May 2012 | 30 July 2013 | 3.3 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 18 (Spherical Cow) | 15 January 2013 | 14 January 2014 | 3.6 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 19 (Schrödinger's Cat) | 2 July 2013 | 6 January 2015 | 3.9 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 20 (Heisenbug) | 17 Dicember 2013 | 23 July 2015  | 3.11 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 21 | 9 Dicember 2014 | 1 Dicember 2015 | 3.17 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 22 | 26 May 2015| 19 July 2016 | 4.0 | 
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 23 | 03 November 2015 | 20 Dicember 2016 | 4.2 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 24 | 21 July 2016 | 2017 August 08 | 4.5 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 25 | 22 November 2016 | 12 Dicember 2017 | 4.8 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 26 | 11 July 2017 | 29 May 2018 | 4.11 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 27 | 14 November 2017  | 30 November 2018 | 4.13 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 28 | 01 May 2018 | 28 May 2019| 4.16 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 29 | 30 October 2018 | 26 November 2019 | 4.18 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 30 | 7 May 2019 | 26 May 2020 | 5.0 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 31 | 29 October 2019 | 24 November 2020 | 5.3 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 32 | 28 April 2020 | 18 May 2021 | 5.6 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 33 | 27 October 2020 | - | 5.8 |
+| ![#80BFFF](https://placehold.it/15/80BFFF/000000?text=+) 34 | 20 April 2021 | - | - |
+
+
 # Linux Mint
 
 | Version | Code Name | Release date | End of Life |
