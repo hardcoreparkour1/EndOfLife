@@ -20,6 +20,11 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 - [WordPress](https://github.com/matthernet/EndOfLife/blob/main/cmsapplications.md#wordpress)
 
 
+## [Mobile](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md)
+- [Android](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#android)
+- [iOS](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#ios)
+
+
 ## OS
 - [Linux](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md)
     - [CentOS](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#centos)
@@ -47,25 +52,22 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 - [OpenSSL](https://github.com/matthernet/EndOfLife/blob/main/SecurityLibraries.md#openssl)
 - [SSL/TLS](https://github.com/matthernet/EndOfLife/blob/main/SecurityLibraries.md#ssltls)
 
+
 ## Software
-- [Control Panels](https://github.com/matthernet/EndOfLife/blob/main/ControlPanels.md)
-    - [cPanel](https://github.com/matthernet/EndOfLife/blob/main/ControlPanels.md#cpanel)
-    - [Plesk](https://github.com/matthernet/EndOfLife/blob/main/ControlPanels.md#plesk)
+- [Control Panels](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md)
+    - [cPanel](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md#cpanel)
+    - [Plesk](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md#plesk)
 
-- [Databases](https://github.com/matthernet/EndOfLife/blob/main/Databases.md)
-    - [MariaDB](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#mariadb)
-    - [Microsoft SQL](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#microsoft-sql)
-    - [MongoDB](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#mongodb)
-    - [MySQL](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#mongodb)
-    - [PostgreSQL](https://github.com/matthernet/EndOfLife/blob/main/Databases.md#postgresql)
+- [Databases](https://github.com/matthernet/EndOfLife/blob/main/Software/Databases.md)
+    - [MariaDB](https://github.com/matthernet/EndOfLife/blob/main/Software/Databases.md#mariadb)
+    - [Microsoft SQL](https://github.com/matthernet/EndOfLife/blob/main/Software/Databases.md#microsoft-sql)
+    - [MongoDB](https://github.com/matthernet/EndOfLife/blob/main/Software/Databases.md#mongodb)
+    - [MySQL](https://github.com/matthernet/EndOfLife/blob/main/Software/Databases.md#mongodb)
+    - [PostgreSQL](https://github.com/matthernet/EndOfLife/blob/main/Software/Databases.md#postgresql)
 
-- [Mobile](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md)
-    - [Android](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#android)
-    - [iOS](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#ios)
-
-- [Web Servers](https://github.com/matthernet/EndOfLife/blob/main/WebServers.md)
-    - [Apache](https://github.com/matthernet/EndOfLife/blob/main/WebServers.md#apache)
-    - [Apache Tomcat](https://github.com/matthernet/EndOfLife/blob/main/WebServers.md#apache-tomcat)
-    - [IBM HTTP Server](https://github.com/matthernet/EndOfLife/blob/main/WebServers.md#ibm-http-server)
-    - [IBM WebSphere Application Server](https://github.com/matthernet/EndOfLife/blob/main/WebServers.md#ibm-websphere-application-server)
-    - [Microsoft IIS](https://github.com/matthernet/EndOfLife/blob/main/WebServers.md#microsoft-iis)
+- [Web Servers](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md)
+    - [Apache](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#apache)
+    - [Apache Tomcat](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#apache-tomcat)
+    - [IBM HTTP Server](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#ibm-http-server)
+    - [IBM WebSphere Application Server](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#ibm-websphere-application-server)
+    - [Microsoft IIS](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#microsoft-iis)
