@@ -25,7 +25,7 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 - [iOS](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#ios)
 
 
-## OS
+## [Operating System](https://github.com/matthernet/EndOfLife/tree/main/OperatingSystem)
 - [Linux](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md)
     - [CentOS](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#centos)
     - [Debian](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/linux.md#debian)
@@ -53,7 +53,7 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 - [SSL/TLS](https://github.com/matthernet/EndOfLife/blob/main/SecurityLibraries.md#ssltls)
 
 
-## Software
+## [Software](https://github.com/matthernet/EndOfLife/tree/main/Software)
 - [Control Panels](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md)
     - [cPanel](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md#cpanel)
     - [Plesk](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md#plesk)
