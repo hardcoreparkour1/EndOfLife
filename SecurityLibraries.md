@@ -5,8 +5,8 @@ TBD
 
 # OpenSSL
 
-| OpenSSL | Release date | End of Life |
-| ------ | ------ | :------: |
+| Version | Release date | End of Life |
+| ------ | ------ |:------:|
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) OpenSSL 0.9.1 | 23 December 1998 | 0.9.1c (23 December 1998)
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) OpenSSL 0.9.2 | 22 March 1999 | 0.9.2b (6 April 1999)
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) OpenSSL 0.9.3 | 25 May 1999 | 0.9.3a (27 May 1999)
@@ -22,3 +22,15 @@ TBD
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) OpenSSL 1.1.1 | September 11, 2018 | - |
 | ![#80BFFF](https://placehold.it/15/80BFFF/000000?text=+) OpenSSL 3.0.0 | - | - |
 
+
+# SSL/TLS
+
+| Version | Codename | Release date | End of Life |
+| ------ | ------ | ------ |:------:|
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SSL 1.0 | - | January 1994 | June 2018 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SSL 2.0 | RFC 6176 | February 1995 | June 2018 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) SSL 3.0 | RFC 7568 | January 1996 | November 2018 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) TLS 1.0 | RFC 2246 | January 1999 | June 30 2018 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) TLS 1.1 | RFC 4346 | April 2006 | June 30 2018 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) TLS 1.2 | RFC 5246 | August 2008 | - |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) TLS 1.3 | - | March 21, 2018 | - |
