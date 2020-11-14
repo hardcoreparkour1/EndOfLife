@@ -1,6 +1,6 @@
 # CentOS
 
-| CentOS | Release date | Full Updates | Maintenance Update |
+| Version | Release date | Full Updates | Maintenance Update |
 | ------ | ------ | ------ |:------:|
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3 | 19 March 2004 | 20 July 2006 | 31 October 2010 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 4 | 9 March 2005 | 31 March 2009 | 29 February 2012 |
@@ -12,7 +12,7 @@
 
 # Debian
 
-| Debian | Code Name | Release date | End of Life | Extended Support | Initial kernel |
+| Version | Code Name | Release date | End of Life | Extended Support | Initial kernel |
 | ------ | ------ | ------ | ------ | ------ |:------: |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.90 | - | August–December | - | - | - |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.91 | - | January 1994 | - | - | - |
@@ -40,9 +40,48 @@
 | unstable | - | Sid | - | 5.5 (April 2020) | - | 
 
 
+# Linux Mint
+
+| Version | Code Name | Release date | End of Life |
+| ------ | ------ | ------ |:------: |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.0 | Ada | 27 August 2006 | - |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.0 | Barbara | 13 November 2006 | April 2008 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.1 | Bea | 20 December 2006 | April 2008 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.2 | Bianca | 20 February 2007 | April 2008 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.0 | Cassandra | 30May 2007 | October 2008 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.1 | Celena | 24 September 2007 | October 2008 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 4.0 | Daryna |  15October 2007 | April 2009 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5 | Elyssa | 8 June 2008 | April 2011 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 6 | Felicia | 15 December 2008 | April 2010 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 7 | Gloria | 26 May 2009 | October 2010 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 8 | Helena | 28 November 2009 | April 2011 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 9 | Isadora | 18 May 2010 | April 2013 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 10 | Julia | 12 November 2010 | April 2012 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 11 | Katya | 26 May 2011 | October 2012 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 12 | Lisa | 16 August 2011 | April 2013 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 13 | Maya | 23 May 2012 | April 2017 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 14 | Nadia | 20 November 2012 | May 2014 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 15 | Olivia | 29 May 2013 | January 2014 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 16 | Petra | 30 November 2013 | July 2014 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 17 | Qiana | 31 May 2014 | April 2019 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 17.1 | Rebecca | 29 November 2014 | April 2019 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 17.2 | Rafaela | 30 June 2015 | April 2019 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 17.3 | Rosa | 4 December 2015 | April 2019 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 18 | Sarah | 30 June 2016 | April 2021 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 18.1 | Serena | 16 December 2016 | April 2021 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 18.2 | Sonya | 2 July 2017 | April 2021 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 18.3 | Sylvia | 27 November 2017 | April 2021 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 19 | Tara | 29 June 2018 | April 2023 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 19.1 | Tessa | 19 December 2018 | April 2023 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 19.2 | Tina | 2 August 2019 | April 2023 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 19.3 | Tricia |  18 December 2019 | April 2023 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 20 | Ulyana | 27 June 2020 | 2025 |
+| ![#80BFFF](https://placehold.it/15/80BFFF/000000?text=+) 20.1 | Ulyana | December 2020 | 2025 |
+
+
 # Red Hat
 
-| Red Hat | Release date | End of Full Support | End of Support 1| End of Support 2 | End of Extended Lifecycle Support | Last minor release |
+| Version | Release date | End of Full Support | End of Support 1| End of Support 2 | End of Extended Lifecycle Support | Last minor release |
 | ------| ------ | ------ | ------ | ------ | ------ | :------: |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.1 | May 1 2003 | 30 November 2004 | 31 May 2005 | 31 May 2009 | - | - |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3 | 23 October 2003 | 30 June 2007 | 31 October 2010 | 30 January 2014 | - |
@@ -55,7 +94,7 @@
 
 # Ubuntu
 
-| Ubuntu | Code Name | Release date | End of Life | Extended Support | Initial kernel |
+| Version | Code Name | Release date | End of Life | Extended Support | Initial kernel |
 | ------ | ------ | ------ | ------ | ------ |:------: |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.04 | Hoary Hedgehog | April 8 2005 | Octobet 31 2006 | - | 2.6.10 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.10 | Breezy Badger | October 13 2005 | April 13 2007 | - | 2.6.12 |
