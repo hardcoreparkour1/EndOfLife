@@ -14,10 +14,10 @@ List of end of life software and OS
 When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 
 
-## [CMS Applications](https://github.com/matthernet/EndOfLife/blob/main/cmsapplications.md)
-- [Drupal](https://github.com/matthernet/EndOfLife/blob/main/cmsapplications.md#drupal)
-- [Joomla](https://github.com/matthernet/EndOfLife/blob/main/cmsapplications.md#joomla)
-- [WordPress](https://github.com/matthernet/EndOfLife/blob/main/cmsapplications.md#wordpress)
+## [CMS Applications](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md)
+- [Drupal](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md#drupal)
+- [Joomla](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md#joomla)
+- [WordPress](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md#wordpress)
 
 
 ## [Mobile](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md)
