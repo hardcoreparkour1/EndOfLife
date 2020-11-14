@@ -26,9 +26,9 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 
 - [Microsoft](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md)
     - [Windows](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows)
-    - [Windows Multipoint Server]https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-multipoint-server)
+    - [Windows Multipoint Server](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-multipoint-server)
     - [Windwos Server](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server)
-    - [Windows Storage Server]https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-storage-server)
+    - [Windows Storage Server](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-storage-server)
 
 - [Unix](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/unix.md)
     - [FreeBSD](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/unix.md#freebsd)
