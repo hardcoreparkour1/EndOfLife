@@ -20,6 +20,17 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 - [WordPress](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md#wordpress)
 
 
+## [Languages](https://github.com/matthernet/EndOfLife/tree/main/Languages)
+- [Frameworks](https://github.com/matthernet/EndOfLife/blob/main/Languages/Frameworks.md)
+    - [Laravel - TBD](https://github.com/matthernet/EndOfLife/blob/main/Languages/Frameworks.md#laravel)
+    - [Silex - TBD](https://github.com/matthernet/EndOfLife/blob/main/Languages/Frameworks.md#silex)
+- [Server Side Scripting](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md)
+    - [.NET Core - TBD](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#net-core)
+    - [Node.js - TBD](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#nodejs)
+    - [PHP - TBD](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#php)
+    - [Ruby - TBD](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#ruby)
+    
+
 ## [Mobile](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md)
 - [Android](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#android)
 - [iOS](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md#ios)
