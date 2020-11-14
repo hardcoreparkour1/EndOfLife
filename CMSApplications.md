@@ -36,4 +36,55 @@
 
 # WordPress
 
+| Version | Codename | Release date |
+| ------ | ------ |:------:|
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.7 | - | 27 May 2003 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.0 | Davis | 3 January 2004 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.2 | Mingus | 22 May 2004 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.5 | Strayhorn | 17 February 2005 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.0 | Duke | 31 December 2005 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.1 | Ella | 22 January 2007 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.2 | Getz | 16 May 2007 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.3 | Dexter | 24 September 2007 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.5 | Brecker | 29 March 2008 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.6 | Tyner | 15 July 2008 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.7 | Coltrane | 11 December 2008 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.8 | Baker | 10 June 2009 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.9 | Carmen | 19 December 2009 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.0 | Thelonious | 17 June 2010 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.1 | Reinhardt | 23 February 2011 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.2 | Gershwin | 4 July 2011 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.3 | Sonny | 12 December 2011 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.4 | Green | 13 June 2012 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.5 | Elvin | 11 December 2012 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.6 | Oscar | 1 August 2013 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 3.7 | Basie | 24 October 2013 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 3.8 | Parker | 12 December 2013 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 3.9 | Smith | 16 April 2014 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 4.0 | Benny | 4 September 2014 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 4.1 | Dinah | 18 December 2014 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 4.2 | Powell | 23 April 2015 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 4.3 | Billie | 18 August 2015 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 4.4 | Clifford | 8 December 2015 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 4.5 | Coleman | 12 April 2016 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 4.6 | Pepper | 16 August 2016 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 4.7 | Vaughan | 6 December 2016 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 4.8 | Evans | 8 June 2017 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 4.9 | Tipton | 16 November 2017 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 5.0 | Bebo | 6 December 2018 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 5.1 | Betty | 21 February 2019 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 5.2 | Jaco | 7 May 2019 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 5.3 | Kirk | 12 November 2019 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 5.4 | Adderley | 31 March 2020 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 5.5 | Eckstine | 11 August 2020 |
+| ![#80BFFF](https://placehold.it/15/80BFFF/000000?text=+) 5.6 | - | 12 November 2020 (beta4) |
+
+
+
+
+
+
+
+
+
 
