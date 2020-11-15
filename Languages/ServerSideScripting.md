@@ -35,6 +35,29 @@
 | ![#80BFFF](https://placehold.it/15/80BFFF/000000?text=+) 16.x | Gallium | 20  April 2021 | 26 October 2021 | 18 October 2022 | 30 April 2024 |
 
 
+# Perl
+
+| Version | Release date |
+| ------ | :------: |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.004 | 29 April 1999 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.005 | 28 March 1999 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.6 | 15 November 2003 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.8 | 14 Dicember 2008 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.10 | 22 Agust 2009 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.12 | 10 November 2012 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.14 | 10 March 2013 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.16 | 11 March 2013 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.18 | 10 October 2014 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.20 | 12 September 2015 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.22 | 15 July 2017 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.24 | 14 April 2018 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.26 | 29 November 2018 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 5.28 | 1 June 2020 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 5.30 | 1 June 2020 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 5.32 | 20 June 2020 |
+| ![#80BFFF](https://placehold.it/15/80BFFF/000000?text=+) 7.0 | 2021-2022? |
+
+
 # PHP
 
 | Version | Release date | End of life | End Security Support |
@@ -60,9 +83,7 @@
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 8.0 | 26 November 2020 | - | 26 November 2023 |
 
 
-
 # Ruby
-
 
 | Version | Release date | End of support  | End Security Support |
 | ------ | ------ | ------ | :------: |
