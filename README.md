@@ -28,6 +28,7 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 - [Server Side Scripting](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md)
     - [.NET Core](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#net-core)
     - [Node.js](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#nodejs)
+    - [Perl](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#perl)
     - [PHP](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#php)
     - [Ruby](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#ruby)
     
