@@ -121,7 +121,7 @@
 
 # Red Hat
 
-| Version | Release date | End of Full Support | End of Support 1| End of Support 2 | End of Extended Lifecycle Support | Last minor release |
+| Version | Release date | End of Full Support | End of Support 1| End of Support 2 | End of Extended Support | Last minor release |
 | ------| ------ | ------ | ------ | ------ | ------ | :------: |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.1 | May 1 2003 | 30 November 2004 | 31 May 2005 | 31 May 2009 | - | - |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3 | 23 October 2003 | 30 June 2007 | 31 October 2010 | 30 January 2014 | - |
