@@ -121,15 +121,15 @@
 
 # Red Hat
 
-| Version | Release date | End of Full Support | End of Support 1| End of Support 2 | End of Extended Support | Last minor release |
-| ------| ------ | ------ | ------ | ------ | ------ | :------: |
-| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.1 | May 1 2003 | 30 November 2004 | 31 May 2005 | 31 May 2009 | - | - |
+| Version | Release date | End of Full Support | End of Support 1| End of Support 2 | End of Extended Support |
+| ------ | ------ | ------ | ------ | ------ | :------: |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.1 | 1 May 2003 | 30 November 2004 | 31 May 2005 | 31 May 2009 | - |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3 | 23 October 2003 | 30 June 2007 | 31 October 2010 | 30 January 2014 | - |
-| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 4 | 14 February 2005 | 31 March 2009 | 16 February 2011 | 29 February 2012 | 31 March 2017 | 4.9 |
-| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 5 | 15 March 2007 | 8 January 2013 | 31 January 2014 | 31 March 2017 | 30 November 2020 | 5.11 |
-| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 6 | 10 November 2010 | 10 May 2016 | 10 May 2017 | 30 November 2020 | 30 June 2024 | 6.10 |
-| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 7 | 10 June 2014 | 6 August 2019 | 6 August 2020 | 30 June 2024 | - | 7.9 |
-| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 8 | 7 May 2019 | May 2024 | - | May 2029 | - | 8.2 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 4 | 14 February 2005 | 31 March 2009 (4.9) | 16 February 2011 | 29 February 2012 | 31 March 2017 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 5 | 15 March 2007 | 8 January 2013 (5.11) | 31 January 2014 | 31 March 2017 | 30 November 2020 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 6 | 10 November 2010 | 10 May 2016 (6.10) | 10 May 2017 | 30 November 2020 | 30 June 2024 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 7 | 10 June 2014 | 6 August 2019 (7.9) | 6 August 2020 | 30 June 2024 | - |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 8 | 7 May 2019 | May 2024 (8.2) | - | May 2029 | - |
 
 
 # Ubuntu
