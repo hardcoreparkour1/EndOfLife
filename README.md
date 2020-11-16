@@ -68,7 +68,7 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 
 ## [Software](https://github.com/matthernet/EndOfLife/tree/main/Software)
 - [Control Panels](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md)
-    - [cPanel](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md#cpanel)
+    - [cPanel - TBD](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md#cpanel)
     - [Plesk](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md#plesk)
 
 - [Databases](https://github.com/matthernet/EndOfLife/blob/main/Software/Databases.md)
