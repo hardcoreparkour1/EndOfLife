@@ -1,6 +1,6 @@
 # EndOfLife
 
-### List of end of life software and OS
+#### List of end of life software and OS
 
 
 ## Example
@@ -86,3 +86,7 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
     - [Microsoft IIS](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#microsoft-iis)
     - [Nginx - TBD](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#nginx)
     
+
+#### If you think there is a need to add some OS / software, just comment it, I will search for the product and add the EOL table (if you already have the EOL table we can add it)
+
+### Enjoy!
