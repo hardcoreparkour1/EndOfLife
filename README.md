@@ -88,6 +88,6 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
     
 
 #### BTW:
-If you think there is a need to add some OS / software, just comment it, I will search for the product and add the EOL table (if you already have the EOL table we can add it)
+If you want to add some OS/software/language, just comment it, I will search for the product and add the EOL table (if you already have the EOL table we can add it 😄)
 
 ### Enjoy!
