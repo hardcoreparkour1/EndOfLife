@@ -84,7 +84,7 @@
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.1.0 | 04 October 2004 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.2.0 | 23 September 2005 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.3.0 | 07 October 2005 |
-| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.4.0 | 30 | August 2006 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.4.0 | 30 August 2006 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.5.0 | 04 December 2006 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.6.0 | 14 June 2007 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.7.0 | 19 May 2008 |
