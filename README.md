@@ -84,9 +84,10 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
     - [IBM HTTP Server](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#ibm-http-server)
     - [IBM WebSphere Application Server](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#ibm-websphere-application-server)
     - [Microsoft IIS](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#microsoft-iis)
-    - [Nginx - TBD](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#nginx)
+    - [Nginx](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#nginx)
     
 
-#### If you think there is a need to add some OS / software, just comment it, I will search for the product and add the EOL table (if you already have the EOL table we can add it)
+#### BTW:
+If you think there is a need to add some OS / software, just comment it, I will search for the product and add the EOL table (if you already have the EOL table we can add it)
 
 ### Enjoy!
