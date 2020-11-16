@@ -77,4 +77,30 @@
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 10.0 | 12 October 2016 | 11 January 2022 | 11 January 2027 | [Windows Server 2016](https://github.com/matthernet/EndOfLife/blob/main/OperatingSystem/microsoft.md#windows-server) |
 
 
-# Nginx 
+# Nginx
+
+| Version | Release date |
+| ------ | :------: |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.1.0 | 04 October 2004 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.2.0 | 23 September 2005 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.3.0 | 07 October 2005 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.4.0 | 30 | August 2006 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.5.0 | 04 December 2006 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.6.0 | 14 June 2007 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.7.0 | 19 May 2008 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.8.0 | 02 June 2009 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 0.9.0 | 29 November 2010 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.0.0 | 12 April 2011 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.1.0 | 01 August 2011 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.2.0 | 23 April 2012 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.3.0 | 15 May 2012 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.4.0 | 24 April 2013 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.5.0 | 07 May 2013 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.7.0 | 24 April 2014 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.9.0 | 28 April 2015 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.11.0 | 24 May 2016 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.13.0 | 25 April 2017 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.15.0 | 05 June 2018 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.17.0 | 21 May 2019 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 1.18.X | 21 May 2020 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 1.19.X | 26 May 2020 |
