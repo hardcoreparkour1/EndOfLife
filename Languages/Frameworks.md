@@ -1,7 +1,7 @@
 # Laravel
 
 | Version | Release date | End of life | Security fixes only |
-| ------ | ------ | ------ |:------: |
+| ------ | ------ | ------ | :------: |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.0 | June 2011 | June 2012 | December 2011 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.0 | September 2011 | September 2012 | March 2012 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.0 | 22 February 2012 | February 2013 | August 2012 |
@@ -26,8 +26,9 @@
 
 
 # Silex
+
 | Version | Release date | End of life |
-| ------ | ------ |:------: |
+| ------ | ------ | :------: |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.0 | 3 May 2013 | October 2013 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.1 | 11 October 2013 | March 2014 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.2 | 29 March 2014 | June 2015 |
@@ -36,3 +37,36 @@
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.1 | 3 May 2017 | July 2017 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.2 | 23 July 2017 | July 2018 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.3 | 20 April 2018 | June 2018 |
+
+
+# Symfony
+
+| Version | Release date | End of life |
+| ------ | ------ | :------: |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.0 | January 2007 | January 2010 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.1 | June 2008 | June 2009 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.2 | December 2008 | November 2009 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.3 | November 2009 | November 2010 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.4 | November 2009 | November 2012 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.0 | July 2011 | March 2013 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.1 | September 2012 | June 2013 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.2 | March 2013 | November 2013 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.3 | June 2013 | May 2016 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.4 | November 2013 | July 2014 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.5 | May 2014 | January 2015 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.6 | November 2014 | July 2015 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.7 | May 2015 | May 2018 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.8 | November 2015 | November 2018 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.0 | November 2015 | July 2016 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.1 | May 2016 | January 2017 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.2 | November 2016 | July 2017 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 3.3 | June 2017 | January 2018 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 3.4 | November 2017 | November 2020 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 4.0 | November 2017 | July 2018 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 4.1 | May 2018 | January 2019 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 4.2 | November 2018 | July 2019 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 4.3 | May 2019 | January 2020 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 4.4 | Nov 2019 | November 2022 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 5.0 | Nov 2019 | July 2020 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 5.1 | May 2020 | January 2021 |
+| ![#80BFFF](https://placehold.it/15/80BFFF/000000?text=+) 5.2 | Nov 2020 | July 2021 |
