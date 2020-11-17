@@ -82,9 +82,8 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
     - [MySQL](https://github.com/matthernet/EndOfLife/blob/main/Software/Databases.md#mongodb)
     - [PostgreSQL](https://github.com/matthernet/EndOfLife/blob/main/Software/Databases.md#postgresql)
 
-- [Web Servers](https://github.com/matthernet/EndOfLife/blob/main/Software/ide.md)
+- [Integrated Development Environment](https://github.com/matthernet/EndOfLife/blob/main/Software/ide.md)
     - [Eclipse](https://github.com/matthernet/EndOfLife/blob/main/Software/ide.md#eclipse)
-    - [NetBeans](https://github.com/matthernet/EndOfLife/blob/main/Software/ide.md#netbeans)
 
 - [Web Servers](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md)
     - [Apache](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#apache)
