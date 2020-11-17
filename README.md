@@ -25,6 +25,7 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 - [Frameworks](https://github.com/matthernet/EndOfLife/blob/main/Languages/Frameworks.md)
     - [Laravel](https://github.com/matthernet/EndOfLife/blob/main/Languages/Frameworks.md#laravel)
     - [Silex](https://github.com/matthernet/EndOfLife/blob/main/Languages/Frameworks.md#silex)
+    - [Symfony](https://github.com/matthernet/EndOfLife/blob/main/Languages/Frameworks.md#symfony)
 - [Server Side Scripting](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md)
     - [.NET Core](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#net-core)
     - [Node.js](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#nodejs)
