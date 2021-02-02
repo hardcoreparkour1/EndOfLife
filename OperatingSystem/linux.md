@@ -132,6 +132,30 @@
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 8 | 7 May 2019 | May 2024 (8.2) | - | May 2029 | - |
 
 
+# Sun Solari
+
+| Solaris Version | SunOS Version | Release date | End of Support |
+| ------ | ------ | ------ | :------: |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.x | 4.1.x | 1991 | September 2003 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.0 | 5.0 | June 1992 | January 1999 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.1 | 5.1 | December 1992 | April 1999 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.2 | 5.2 | May 1993	–	May 1999 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.3 | 5.3 | November 1993 | June 2002 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.4 | 5.4 | November 1994 | September 2003 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.5 | 5.5 | November 1995 | December 2003 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.5.1 | 5.5.1 | May 1996 | September 2005 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.6 | 5.6 | July 1997 | July 2006 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 7 | 5.7 | November 1998 | August 2008 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 8 | 5.8 | February 2000 | March 2012 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 9 | 5.9 | May 28 2002 | October 2014 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 10 | 5.10 | January 31 2005 | January 2021 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 11 Express | 5.11 | November 15 2010 | November 2024 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 11 | 5.11 | November 9 2011 | November 2024 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 11.1 | 5.11 | October 3 2012 | November 2024 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 11.2 | 5.11 | April 29 2014 | November 2024 |
+| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 11.3 | 5.11 | October 26 2015 | November 2024 |
+
+
 # Ubuntu
 
 | Version | Code Name | Release date | End of Life | Extended Support | Initial kernel |
