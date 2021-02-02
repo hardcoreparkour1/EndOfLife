@@ -148,7 +148,7 @@
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 7 | 5.7 | November 1998 | August 2008 |
 | ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 8 | 5.8 | February 2000 | March 2012 |
 | ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 9 | 5.9 | May 28 2002 | October 2014 |
-| ![#FFFF80](https://placehold.it/15/0A8A0A/000000?text=+) 10 | 5.10 | January 31 2005 | January 2021 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) 10 | 5.10 | January 31 2005 | January 2021 |
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 11 Express | 5.11 | November 15 2010 | November 2024 |
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 11 | 5.11 | November 9 2011 | November 2024 |
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) 11.1 | 5.11 | October 3 2012 | November 2024 |
