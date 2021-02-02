@@ -139,7 +139,7 @@
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 1.x | 4.1.x | 1991 | September 2003 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.0 | 5.0 | June 1992 | January 1999 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.1 | 5.1 | December 1992 | April 1999 |
-| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.2 | 5.2 | May 1993	–	May 1999 |
+| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.2 | 5.2 | May 1993 | May 1999 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.3 | 5.3 | November 1993 | June 2002 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.4 | 5.4 | November 1994 | September 2003 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 2.5 | 5.5 | November 1995 | December 2003 |
