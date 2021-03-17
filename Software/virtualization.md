@@ -36,7 +36,7 @@
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) VMware ESXi 4.x | 21 May 2009 | 21 May 2014 | 21 May 2016 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) VMware ESXi 5.0/5.1 | 24 August 2011 | 24 August 2016 | 24 August 2018 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) VMware ESXi 5.5 | 19 September 2013 | 19 September 2018 | 19 September 2020 |
-| ![#FFFF80](https://placehold.it/15/f03c15/000000?text=+) VMware ESXi 6.0 | 12 March 2015 | 12 March 2020 | 12 March 2022 |
-| ![#FFFF80](https://placehold.it/15/f03c15/000000?text=+) VMware ESXi 6.5 | 15 November 2016 | 15 October 2022 | 15 November 2023 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) VMware ESXi 6.0 | 12 March 2015 | 12 March 2020 | 12 March 2022 |
+| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) VMware ESXi 6.5 | 15 November 2016 | 15 October 2022 | 15 November 2023 |
 | ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) VMware ESXi 6.7 | 17 April 2018 | 15 October 2022 | 15 November 2024 |
 | ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) VMware ESXi 7.0 | 2 April 2020 | 2 April 2025 | 2 April 2027 |
