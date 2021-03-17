@@ -14,13 +14,6 @@
 ### Note:
 When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 
-
-## [CMS Applications](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md)
-- [Drupal](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md#drupal)
-- [Joomla](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md#joomla)
-- [WordPress](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md#wordpress)
-
-
 ## [Languages](https://github.com/matthernet/EndOfLife/tree/main/Languages)
 - [Frameworks](https://github.com/matthernet/EndOfLife/blob/main/Languages/Frameworks.md)
     - [Laravel](https://github.com/matthernet/EndOfLife/blob/main/Languages/Frameworks.md#laravel)
@@ -72,6 +65,12 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 - [CI/CD Tools](https://github.com/matthernet/EndOfLife/blob/main/Software/CiCdTools.md)
     - [CloudBees](https://github.com/matthernet/EndOfLife/blob/main/Software/CiCdTools.md#cloudbees-build-acceleration)
     - [Jenkins - TBD](https://github.com/matthernet/EndOfLife/blob/main/Software/CiCdTools.md#jenkins)
+
+- [CMS Applications](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md)
+    - [Drupal](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md#drupal)
+    - [Joomla](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md#joomla)
+    - [WordPress](https://github.com/matthernet/EndOfLife/blob/main/CMSApplications.md#wordpress)
+
 - [Control Panels](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md)
     - [cPanel - TBD](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md#cpanel)
     - [Plesk](https://github.com/matthernet/EndOfLife/blob/main/Software/ControlPanels.md#plesk)
