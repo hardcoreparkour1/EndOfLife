@@ -85,6 +85,12 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 - [Integrated Development Environment](https://github.com/matthernet/EndOfLife/blob/main/Software/ide.md)
     - [Eclipse](https://github.com/matthernet/EndOfLife/blob/main/Software/ide.md#eclipse)
 
+
+- [Virtualization](https://github.com/matthernet/EndOfLife/blob/main/Software/virtualization.md)
+    - [Docker](https://github.com/matthernet/EndOfLife/blob/main/Software/virtualization.md#docker)
+    - [Virtual Box](https://github.com/matthernet/EndOfLife/blob/main/Software/virtualization.md#virtual-box)
+    - [VMware](https://github.com/matthernet/EndOfLife/blob/main/Software/virtualization.md#vmware)
+
 - [Web Servers](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md)
     - [Apache](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#apache)
     - [Apache Tomcat](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#apache-tomcat)
