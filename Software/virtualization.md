@@ -29,8 +29,8 @@
 
 # Virtual Box
 
-| Virtual Box | Release date | End of Life |
-| ------ | ------ | :------: |
+| Virtual Box | End of Life |
+| ------ | :------: |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) VirtualBox 4.0 | Decembre 2015 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) VirtualBox 4.1 | Decembre 2015 |
 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) VirtualBox 4.2 | Decembre 2015 |
