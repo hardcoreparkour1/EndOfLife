@@ -89,7 +89,7 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 - [Virtualization](https://github.com/matthernet/EndOfLife/blob/main/Software/virtualization.md)
     - [Docker](https://github.com/matthernet/EndOfLife/blob/main/Software/virtualization.md#docker)
     - [Virtual Box](https://github.com/matthernet/EndOfLife/blob/main/Software/virtualization.md#virtual-box)
-    - [VMware](https://github.com/matthernet/EndOfLife/blob/main/Software/virtualization.md#vmware)
+    - [VMware](https://github.com/matthernet/EndOfLife/blob/main/Software/virtualization.md#vmware-esxi)
 
 - [Web Servers](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md)
     - [Apache](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#apache)
