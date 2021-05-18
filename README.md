@@ -7,9 +7,9 @@
 | Version | Release date | End of Life |
 | ------ | ------ | :------: |
 | ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) Old version | - | - |
-| ![#FFFF80](https://placehold.it/15/FFFF80/000000?text=+) Older version, still maintained | - | - |
-| ![#0A8A0A](https://placehold.it/15/0A8A0A/000000?text=+) Latest version | - | - |
-| ![#80BFFF](https://placehold.it/15/80BFFF/000000?text=+) Future release | - | - |
+| ![#FFFF80](http://placehold.it/15/FFFF80/000000?text=+) Older version, still maintained | - | - |
+| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) Latest version | - | - |
+| ![#80BFFF](http://placehold.it/15/80BFFF/000000?text=+) Future release | - | - |
 
 ### Note:
 When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
