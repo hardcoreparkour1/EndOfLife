@@ -99,6 +99,11 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
     - [Microsoft IIS](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#microsoft-iis)
     - [Nginx](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#nginx)
     
+## [Oracle](https://github.com/matthernet/EndOfLife/tree/main/Languages)
+- [Java SE](https://github.com/matthernet/EndOfLife/blob/main/Oracle.md#java-se)
+- [OpenSDK](https://github.com/matthernet/EndOfLife/blob/main/Oracle.md#opensdk-red-hat)
+    - [OpenSDK Linux](https://github.com/matthernet/EndOfLife/blob/main/Oracle.md#opensdk-red-hat)
+    - [OpenSDK Windows](https://github.com/matthernet/EndOfLife/blob/main/Oracle.md#opensdk-windows)
 
 #### BTW:
 If you want to add some OS/software/language, just comment it, I will search for the product and add the EOL table (if you already have the EOL table we can add it 😄)
