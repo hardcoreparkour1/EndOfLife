@@ -22,4 +22,5 @@
 | ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) macOS 10.13 | High Sierra | 17 | 25 September 2017 | 30 November 2020 | 10.13.6 (17G14019)(15 July 2020)
 | ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) macOS 10.14 | Mojave | 18 | 24 September 2018 | September 2021 | 10.14.6 (18G6020)(15 July 2020)
 | ![#FFFF80](http://placehold.it/15/FFFF80/000000?text=+) macOS 10.15 | Catalina | 19 | 7 October 2019 | - | 10.15.7 (19H2)(24 September 2020)
-| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) macOS 11.0 | Big Sur | 20 | 12 November 2020 | - | 11.0.1 (20B29)(12 November 2020)
+| ![#FFFF80](http://placehold.it/15/FFFF80/000000?text=+) macOS 11.0 | Big Sur | 20 | 12 November 2020 | - | 11.5
+| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) macOS 12.0 | Monterey | - | 25 October 2021 | - | 12.2
