@@ -61,6 +61,27 @@
 | ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) 9.0 | 5 April 2019 | 9.0.5.5 | - |
 
 
+# Jetty
+
+| Version | Years | Home | Min JVM | Servlet | JSP |
+| ------ | ------ | ------ | ------ | ------ | :------: |
+| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) 1 | 1995-1998 | Mortbay | 1.0 | - | - |
+| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) 2 | 1998-2000 | Mortbay | 1.1 | 2.1 | 1.0 |
+| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) 3 | 1999-2002 | Sourceforge | 1.2 | 2.2 | 1.1 |
+| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) 4 | 2001-2006 | Sourceforge | 1.2,J2ME | 2.3 | 1.2 |
+| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) 5 | 2003-2009 | Sourceforge | 1.2-1.5 | 2.4 | 2.0 |
+| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) 6 | 2006-2010 | Codehaus | 1.4-1.5 | 2.5 | 2.0 |
+| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) 7 | 2008-2014 | Eclipse / Codehaus | 1.5 | 2.5 | 2.1 |
+| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) 8 | 2009-2014 | Eclipse / Codehaus | 1.6 | 3.0 | 2.2 |
+| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) 9.0 | 2013-2013 | Eclipse | 1.7 | 3.1-beta | 2.3 |
+| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) 9.1 | 2013-2014 | Eclipse | 1.7 | 3.1 | 2.3 |
+| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) 9.2 | 2014-2018 | Eclipse | 1.7 | 3.1 | 2.3 |
+| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) 9.3 | 2015-2020 | Eclipse | 1.8 | 3.1 | 2.3 |
+| ![#FFFF80](http://placehold.it/15/FFFF80/000000?text=+) 9.4 | 2016- | Eclipse | 1.8 | 3.1 | 2.3 |
+| ![#FFFF80](http://placehold.it/15/FFFF80/000000?text=+) 10 | 2020- | Eclipse | 11 | 4.0 | 2.3 |
+| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) 11 | 2020- | Eclipse | 11 | 5.0 | 3.0 |
+
+
 # Microsoft IIS
 
 | Version | Release date | End of Life | Extended Support End | Life Parent to |
