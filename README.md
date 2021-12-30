@@ -96,6 +96,7 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
     - [Apache Tomcat](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#apache-tomcat)
     - [IBM HTTP Server](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#ibm-http-server)
     - [IBM WebSphere Application Server](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#ibm-websphere-application-server)
+    - [Jetty](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#jetty)
     - [Microsoft IIS](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#microsoft-iis)
     - [Nginx](https://github.com/matthernet/EndOfLife/blob/main/Software/WebServers.md#nginx)
     
