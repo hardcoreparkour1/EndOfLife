@@ -2,43 +2,49 @@
 
 | Android | VERSION NUMBER |  Release | Api Level |
 | ------ | ------ | ------ |:------: |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) (No codename) | 1.0 | September 23 2008 | 1 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) (No codename) | 1.1 | February 9 2009 | 2 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) Cupcake | 1.5 | April 27 2009 | 3 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) Donut | 1.6 | September 15 2009 | 4 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) Eclair  | 2.0 - 2.1 | October 26 2009 | 5-7 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) Froyo | 2.2 - 2.2.3 | May 20 2010 | 8 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) Gingerbread | 2.3 - 2.3.7 | December 6 2010 | 9-10 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) Honeycomb | 3.0 - 3.2.6 | February 22 2011 | 11-13 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) Ice Cream Sandwich | 4.0 - 4.0.4 | October 18 2011 | 14-15 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) Jelly Bean | 4.1 - 4.3.1 | July 9 2012 | 16-18 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) KitKat | 4.4 - 4.4.4 | October 31 2013 | 19-20 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) Lollipop | 5.0 - 5.1.1 | November 12 2014 | 21-22 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) Marshmallow | 6.0 - 6.0.1 | October 5 2015 | 23 |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) Nougat | 7.0 - 7.1.2 | August 22 2016 | 24-15 |
-| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) Oreo | 8.0 - 8.1 | August 21 2017 | 26-27 |
-| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) Pie | 9 | August 6 2018 | 28 |
-| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) Android 10 | 10 | September 3 2019 | 29 |
-| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) Android 11 | 11 | September 8 2020 | 30 |
+| :red_square: (No codename) | 1.0 | 23 September 2008 | 1 |
+| :red_square: (No codename) | 1.1 | 9 February 2009 | 2 |
+| :red_square: Cupcake | 1.5 | 27 April 2009 | 3 |
+| :red_square: Donut | 1.6 | 15 September 2009 | 4 |
+| :red_square: Eclair  | 2.0 - 2.1 | 26 October 2009 | 5-7 |
+| :red_square: Froyo | 2.2 - 2.2.3 | 20 May 2010 | 8 |
+| :red_square: Gingerbread | 2.3 - 2.3.7 | 6 December 2010 | 9-10 |
+| :red_square: Honeycomb | 3.0 - 3.2.6 | 22 February 2011 | 11-13 |
+| :red_square: Ice Cream Sandwich | 4.0 - 4.0.4 | 18 October 2011 | 14-15 |
+| :red_square: Jelly Bean | 4.1 - 4.3.1 | 9 July 2012 | 16-18 |
+| :red_square: KitKat | 4.4 - 4.4.4 | 31 October 2013 | 19-20 |
+| :red_square: Lollipop | 5.0 - 5.1.1 | 12 November 2014 | 21-22 |
+| :red_square: Marshmallow | 6.0 - 6.0.1 | 5 October 2015 | 23 |
+| :red_square: Nougat | 7.0 - 7.1.2 | 22 August 2016 | 24-15 |
+| :red_square: Oreo | 8.0 - 8.1 | 21 August 2017 | 26-27 |
+| :red_square: Pie | 9 | 6 August 2018 | 28 |
+| :green_square: Android 10 Queen Cake | 10 | 3 September 2019 | 29 |
+| :green_square: Android 11 Red Velvet Cake| 11 | 8 September 2020 | 30 |
+| :green_square: Android 12 Snow Cone | 12 | 4 October 2021 | 31 |
+| :green_square: Android 12.1 Snow Cone v2 (aka 12L) | 12L | 7 March 2022 | 32 |
+| :blue_square: Android 13 TBD | 13 | TBD | 33 |
 
 
 # iOS
 
 | iOS | Release date | Discontinued | Supported |
 | ------ | ------ | ------ |:------: |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) iPhone 5C | September 20 2013 | September 09 2015 | No |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) iPhone 5S | September 20 2013 | March 21 2016 | No |
-| ![#f03c15](http://placehold.it/15/f03c15/000000?text=+) iPhone 6 / 6 Plus | September 25 2014 | September 07 2016 | No |
-| ![#FFFF80](http://placehold.it/15/FFFF80/000000?text=+) iPhone 6S / 6S Plus | September 25 2015 | September 12 2018 | Yes |
-| ![#FFFF80](http://placehold.it/15/FFFF80/000000?text=+) iPhone SE (1st generation) | March 31 2016 | September 12 2018 | Yes |
-| ![#FFFF80](http://placehold.it/15/FFFF80/000000?text=+) iPhone 7 / 7 Plus | September 16 2016 | September 10 2019 | Yes |
-| ![#FFFF80](http://placehold.it/15/FFFF80/000000?text=+) iPhone X | September 12 2017 | 12 September 2018 | Yes |
-| ![#FFFF80](http://placehold.it/15/FFFF80/000000?text=+) iPhone 8 / 8 Plus | September 22 2017 | April 15 2020 | Yes |
-| ![#FFFF80](http://placehold.it/15/FFFF80/000000?text=+) iPhone XS / XS | September 21 2018 | September 10 2019 | Yes |
-| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) iPhone XR | October 26 2018 | In Production | Yes |
-| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) iPhone 11     | September 20 2019 | In Production | Yes |
-| ![#FFFF80](http://placehold.it/15/FFFF80/000000?text=+) iPhone 11 Pro / 11 Pro Max | September 20 2019 | October 13 2020 | Yes |
-| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) iPhone SE (2nd generation) | April 24 2020 | In Production | Yes |
-| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) iPhone 12 / 12 Pro | October 23 2020 | In Production | Yes |
-| ![#0A8A0A](http://placehold.it/15/0A8A0A/000000?text=+) iPhone 12 Mini / 12 Pro Max | November 13 2020 | In Production | Yes |
-
+| :red_square: iPhone 5C | 20 September 2013 | 9 September 2015 | No |
+| :red_square: iPhone 5S | 20 September 2013 | 21 March 2016 | No |
+| :red_square: iPhone 6 / 6 Plus | 25 September 2014 | 7 September 2016 | No |
+| :green_square: iPhone 6S / 6S Plus | 25 September 2015 | 12 September 2018 | Yes |
+| :green_square: iPhone SE (1st generation) | 31 March 2016 | 12 September 2018 | Yes |
+| :green_square: iPhone 7 / 7 Plus | 16 September 2016 | 10 September 2019 | Yes |
+| :green_square: iPhone X | 12 September 2017 | 12 September 2018 | Yes |
+| :green_square: iPhone 8 / 8 Plus | 22 September 2017 | 15 April 2020 | Yes |
+| :green_square: iPhone XS / XS | 21 September 2018 | 10 September 2019 | Yes |
+| :green_square: iPhone XR | 26 October 2018 | Discontinued | Yes |
+| :green_square: iPhone 11 | 20 September 2019 | In Production | Yes |
+| :green_square: iPhone 11 Pro / 11 Pro Max | 20 September 2019 | 13 October 2020 | Yes |
+| :green_square: iPhone SE (2nd generation) | 34 April 2020 | In Production | Yes |
+| :green_square: iPhone 12 | 23 October 2020 | In Production | Yes |
+| :green_square: iPhone 12 Pro | 23 October 2020 | Discontinued | Yes |
+| :green_square: iPhone 12 Mini | 13 November 2020 | In Production | Yes |
+| :green_square: iPhone 12 Pro Max | 13 November 2020 | Discontinued | Yes |
+| :green_square: iPhone 13 Mini / 13 Mini / 13 Pro / 13 Pro Max | 24 September 2021 | In Production | Yes |
+| :green_square: iPhone SE (3rd generation | 18 March 2022 | In Production | Yes |
