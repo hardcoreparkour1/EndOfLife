@@ -19,12 +19,15 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
     - [Laravel](https://github.com/matthernet/EndOfLife/blob/main/Languages/Frameworks.md#laravel)
     - [Silex](https://github.com/matthernet/EndOfLife/blob/main/Languages/Frameworks.md#silex)
     - [Symfony](https://github.com/matthernet/EndOfLife/blob/main/Languages/Frameworks.md#symfony)
-- [Server Side Scripting](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md)
-    - [.NET Core](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#net-core)
-    - [Node.js](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#nodejs)
-    - [Perl](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#perl)
-    - [PHP](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#php)
-    - [Ruby](https://github.com/matthernet/EndOfLife/blob/main/Languages/ServerSideScripting.md#ruby)
+- [Languages](https://github.com/matthernet/EndOfLife/blob/main/Languages/Languages.md)
+    - [.NET Core](https://github.com/matthernet/EndOfLife/blob/main/Languages/Languages.md#net-core)
+    - [Node.js](https://github.com/matthernet/EndOfLife/blob/main/Languages/Languages.md#nodejs)
+    - [Perl](https://github.com/matthernet/EndOfLife/blob/main/Languages/Languages.md#perl)
+    - [PHP](https://github.com/matthernet/EndOfLife/blob/main/Languages/Languages.md#php)
+    - [Ruby](https://github.com/matthernet/EndOfLife/blob/main/Languages/Languages.md#ruby)
+    - [Python] - TBD
+    - [Kotlin] - TBD
+    - [Swift] - TBD
     
 
 ## [Mobile](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md)
