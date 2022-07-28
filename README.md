@@ -25,9 +25,8 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
     - [Perl](https://github.com/matthernet/EndOfLife/blob/main/Languages/Languages.md#perl)
     - [PHP](https://github.com/matthernet/EndOfLife/blob/main/Languages/Languages.md#php)
     - [Ruby](https://github.com/matthernet/EndOfLife/blob/main/Languages/Languages.md#ruby)
-    - [Python] - TBD
-    - [Kotlin] - TBD
-    - [Swift] - TBD
+    - [Python] (https://github.com/matthernet/EndOfLife/blob/main/Languages/Languages.md#python)
+    - [Kotlin] (https://github.com/matthernet/EndOfLife/blob/main/Languages/Languages.md#kotlin)
     
 
 ## [Mobile](https://github.com/matthernet/EndOfLife/blob/main/Mobile.md)
