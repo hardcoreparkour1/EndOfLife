@@ -58,6 +58,7 @@ When you see the "D:" and "S:" it stand for *Desktop* and *Server* versions
 
 
 ## [Security Libraries](https://github.com/matthernet/EndOfLife/blob/main/SecurityLibraries.md)
+- [OpenSSH/OpenBSD](https://github.com/matthernet/EndOfLife/blob/main/SecurityLibraries.md#opensshopenbsd)
 - [OpenSSL](https://github.com/matthernet/EndOfLife/blob/main/SecurityLibraries.md#openssl)
 - [SSL/TLS](https://github.com/matthernet/EndOfLife/blob/main/SecurityLibraries.md#ssltls)
 
