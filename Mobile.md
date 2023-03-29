@@ -18,7 +18,7 @@
 | :red_square: Nougat | 7.0 - 7.1.2 | 22 August 2016 | 24-15 |
 | :red_square: Oreo | 8.0 - 8.1 | 21 August 2017 | 26-27 |
 | :red_square: Pie | 9 | 6 August 2018 | 28 |
-| :green_square: Android 10 Queen Cake | 10 | 3 September 2019 | 29 |
+| :red_square: Android 10 Queen Cake | 10 | 3 September 2019 | 29 |
 | :green_square: Android 11 Red Velvet Cake| 11 | 8 September 2020 | 30 |
 | :green_square: Android 12 Snow Cone | 12 | 4 October 2021 | 31 |
 | :green_square: Android 12.1 Snow Cone v2 (aka 12L) | 12L | 7 March 2022 | 32 |
